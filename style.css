@@ -5,6 +5,15 @@
 h1 {
     font-weight: normal;
     font-size: 280%;
+    color: cornflowerblue;
+    background: url(palma1.png) auto no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#header {
+    color: cornflowerblue;
 }
 
 #page {
@@ -24,11 +33,13 @@ body {
 #contacts {
     border: 1px solid green;
     margin: 0 10px 10px 1147px;
+    color: cornflowerblue;
 }
 
 #country {
     border: 1px solid yellow;
     margin: 0 10px 10px 1200px;
+    color: cornflowerblue;
 }
 
 #top-menu {
